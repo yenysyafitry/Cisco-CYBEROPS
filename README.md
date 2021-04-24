@@ -86,7 +86,7 @@ d. meretas kata sandi administrator untuk server kritis
 <details>
 <summary markdown="span">Answer :</summary>
 c. mencari dan mendapatkan rahasia dagang
-</details>
+</details></p><p align="justify">
 2. Apa itu cyberwarfare?</br>
 a. Ini adalah serangan yang dirancang untuk menganggu, merusak, atau mengeksploitasi kepentingan nasional.</br>
 b. Ini adalah serangan hanya terhadap sasaran militer</br>
@@ -95,7 +95,7 @@ d. Ini adalah serangan yang hanya melibatkan robot dan bot</br>
 <details>
 <summary markdown="span">Answer :</summary>
 a. Ini adalah serangan yang dirancang untuk menganggu, merusak, atau mengeksploitasi kepentingan nasional.
-</details>
+</details> </p><p align="justify">
 3. Jenis malware apa yang memiliki tujuan utama menyebar ke seluruh jaringan? </br>
 a. trojan horse</br>
 b. botnet</br>
