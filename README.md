@@ -182,45 +182,44 @@ Cisco Smart Net Total Care Service untuk Penyelesaian Masalah yang Cepat</li>
 <li>Layanan Terkelola Cisco</li>
 <li>Operasi Taktis Cisco (TacOps)</li>
 <li>Program Keselamatan dan Keamanan Fisik Cisco</li></ul>
-</br> <b>Kuis Identifikasi Terminologi SOC</b></br>
+</br> <p align="justify"><b>Kuis Identifikasi Terminologi SOC</b></p></br>
 <p align="justify"> 
-1. Peran pekerjaan SOC mana yang mengelola semua sumber daya SOC dan berfungsi sebagai titik kontak untuk organisasi atau pelanggan yang lebih besar ?
-a. SME/Threat Hunter
-b. SOC Manager
-c. Cybersecurity Analyst
+1. Peran pekerjaan SOC mana yang mengelola semua sumber daya SOC dan berfungsi sebagai titik kontak untuk organisasi atau pelanggan yang lebih besar ?</br>
+a. SME/Threat Hunter</br>
+b. SOC Manager</br>
+c. Cybersecurity Analyst</br>
 d. Incident Responder
 <details>
 <summary markdown="span">Answer :</summary>
 b. SOC Manager
 </details></p><p align="justify"> 
-b. SOC Manager
-2. Peran pekerjaan SOC mana yang memperoses peringatan keamanan dan meneruskan tiket ke tingkat 2 jika perlu ?
-a. SME/Threat Hunter
-b. SOC Manager
-c. Cybersecurity Analyst
+2. Peran pekerjaan SOC mana yang memperoses peringatan keamanan dan meneruskan tiket ke tingkat 2 jika perlu ?</br>
+a. SME/Threat Hunter</br>
+b. SOC Manager</br>
+c. Cybersecurity Analyst</br>
 d. Incident Responder
 <details>
 <summary markdown="span">Answer :</summary>
 c. Cybersecurity Analyst
 </details></p><p align="justify"> 
-3. Peran pekerjaan SOC mana yang bertanggung jawab untuk penyelidikan mendalam atas insiden ?
-a. SME/Threat Hunter
-b. SOC Manager
-c. Cybersecurity Analyst
+3. Peran pekerjaan SOC mana yang bertanggung jawab untuk penyelidikan mendalam atas insiden ?</br>
+a. SME/Threat Hunter</br>
+b. SOC Manager</br>
+c. Cybersecurity Analyst</br>
 d. Incident Responder
 <details>
 <summary markdown="span">Answer :</summary>
 d. Incident Responder</details></p><p align="justify"> 
-4. Perangkat mana yang mengintegrasikan informasi keamanan dan manajemen acara ke dalam satu platform ?
-a. SIEM
-b. SOAR
+4. Perangkat mana yang mengintegrasikan informasi keamanan dan manajemen acara ke dalam satu platform ?</br>
+a. SIEM</br>
+b. SOAR</br>
 c. Threat Hunter
 <details>
 <summary markdown="span">Answer :</summary>
 a. SIEM</details></p><p align="justify"> 
-5. Perangkat mana yang mengintegrasikan alat orkestrasi dan sumber daya untuk merespons peristiwa keamanan secara otomatis ?
-a. SIEM
-b. SOAR
+5. Perangkat mana yang mengintegrasikan alat orkestrasi dan sumber daya untuk merespons peristiwa keamanan secara otomatis ?</br>
+a. SIEM</br>
+b. SOAR</br>
 c. Threat Hunter
 <details>
 <summary markdown="span">Answer :</summary>
