@@ -78,6 +78,15 @@ Diperkirakan bisnis akan kehilangan lebih dari $ 5 triliun setiap tahun pada tah
 
 <p align="center"><b> Modul 1: Kuis Bahaya</b></br></br></p>
 <p align="justify">
+1. Seorang penyerang mengirimkan malware sebagai lampiran email ke karyawan di sebuah perusahaan. Apa satu kemungkinan tujuan serangan itu?</br>
+a. menolak akses eksternal ke server web yang terbuka untuk umum</br>
+b. menyelidiki port terbuka di firewall di jaringan perbatasan</br>
+c. mencari dan mendapatkan rahasia dagang</br>
+d. meretas kata sandi administrator untuk server kritis
+<details>
+<summary markdown="span">Answer :</summary>
+c. mencari dan mendapatkan rahasia dagang
+</details>
 2. Apa itu cyberwarfare?</br>
 a. Ini adalah serangan yang dirancang untuk menganggu, merusak, atau mengeksploitasi kepentingan nasional.</br>
 b. Ini adalah serangan hanya terhadap sasaran militer</br>
@@ -96,13 +105,5 @@ d. worm</br>
 <summary markdown="span">Answer :</summary>
 d. worm
 </details>
-1. Seorang penyerang mengirimkan malware sebagai lampiran email ke karyawan di sebuah perusahaan. Apa satu kemungkinan tujuan serangan itu?</br>
-a. menolak akses eksternal ke server web yang terbuka untuk umum</br>
-b. menyelidiki port terbuka di firewall di jaringan perbatasan</br>
-c. mencari dan mendapatkan rahasia dagang</br>
-d. meretas kata sandi administrator untuk server kritis
-<details>
-<summary markdown="span">Answer :</summary>
-c. mencari dan mendapatkan rahasia dagang
-</details>
+
 </p>
