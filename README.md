@@ -1,6 +1,5 @@
 
-<p align="justify">CyberOps Associate v1.0 mencakup pengetahuan dan keterampilan yang dibutuhkan untuk berhasil menangani tugas, tugas, dan tanggung jawab Analis Keamanan tingkat asosiasi yang bekerja di Pusat Operasi Keamanan (SOC).
-</br>Setelah menyelesaikan kursus CyberOps Associate v1.0, siswa akan dapat melakukan tugas berikut:
+<p align="justify">CyberOps Associate v1.0 mencakup pengetahuan dan keterampilan yang dibutuhkan untuk berhasil menangani tugas, tugas, dan tanggung jawab Analis Keamanan tingkat asosiasi yang bekerja di Pusat Operasi Keamanan (SOC). Setelah menyelesaikan kursus CyberOps Associate v1.0, siswa akan dapat melakukan tugas berikut:
 </p><ol align="justify"><li>
 Instal mesin virtual untuk menciptakan lingkungan yang aman untuk menerapkan dan menganalisis peristiwa ancaman keamanan siber.</li>
 <li>Jelaskan peran Analis Operasi Keamanan Siber di perusahaan.</li>
