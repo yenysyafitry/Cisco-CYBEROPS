@@ -77,7 +77,7 @@ Aktor ancaman termasuk, tetapi tidak terbatas pada, amatir, peretas, kelompok ke
 Diperkirakan bisnis akan kehilangan lebih dari $ 5 triliun setiap tahun pada tahun 2024 karena serangan siber. Informasi yang dapat diidentifikasi secara pribadi (IIP), informasi kesehatan yang dilindungi (PHI), dan informasi keamanan pribadi (PSI) adalah bentuk informasi yang dilindungi yang sering dicuri. Perusahaan dapat kehilangan keunggulan kompetitifnya jika informasi ini dicuri, termasuk rahasia dagang. Selain itu, pelanggan kehilangan kepercayaan pada kemampuan perusahaan untuk melindungi data mereka. Pemerintah juga menjadi korban peretasan.</p>
 
 <p align="center"><b> Modul 1: Kuis Bahaya</b></br></br></p>
-<p align="justify">
+
 1. Seorang penyerang mengirimkan malware sebagai lampiran email ke karyawan di sebuah perusahaan. Apa satu kemungkinan tujuan serangan itu?</br>
 a. menolak akses eksternal ke server web yang terbuka untuk umum</br>
 b. menyelidiki port terbuka di firewall di jaringan perbatasan</br>
@@ -86,7 +86,7 @@ d. meretas kata sandi administrator untuk server kritis
 <details>
 <summary markdown="span">Answer :</summary>
 c. mencari dan mendapatkan rahasia dagang
-</details></p><p align="justify">
+</details><p align="justify">
 2. Apa itu cyberwarfare?</br>
 a. Ini adalah serangan yang dirancang untuk menganggu, merusak, atau mengeksploitasi kepentingan nasional.</br>
 b. Ini adalah serangan hanya terhadap sasaran militer</br>
