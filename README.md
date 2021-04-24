@@ -17,7 +17,7 @@ Instal mesin virtual untuk menciptakan lingkungan yang aman untuk menerapkan dan
 <li>Menerapkan model respons insiden untuk mengelola insiden keamanan jaringan.</li></ol>
 
 <p align="justify">Ada sejumlah alat dan sumber daya yang tersedia untuk Anda yang akan membantu dalam perjalanan Anda saat Anda mengembangkan keterampilan CyberOps dan mempersiapkan peluang kerja. </br></br>
-<b>Lingkungan Lab</b></br></br>
+<b>Lingkungan Lab</b></br>
 Dalam kursus ini, dua mesin virtual (VM) digunakan: CyberOps Workstation dan Security Onion. VM ini menyediakan semua aplikasi dan pemantauan keamanan terbaru serta kemampuan analisis intrusi jaringan yang diperlukan untuk kursus.</br></br>
 Persyaratan memori RAM minimum untuk menjalankan mesin virtual CyberOps Workstation adalah 1 GB. Namun, untuk mesin virtual Security Onion, disarankan menggunakan RAM 4 GB. Rekomendasi memori RAM pada Security Onion VM memungkinkan layanan, seperti pemantauan keamanan jaringan (NSM), berfungsi dengan baik.</br></br>
 Lab penginstalan tersedia dalam kursus ini dan memberikan langkah-langkah mendetail untuk menyiapkan VM dan lingkungan lab Anda dengan benar.</p>
@@ -78,5 +78,10 @@ Aktor ancaman termasuk, tetapi tidak terbatas pada, amatir, peretas, kelompok ke
 Diperkirakan bisnis akan kehilangan lebih dari $ 5 triliun setiap tahun pada tahun 2024 karena serangan siber. Informasi yang dapat diidentifikasi secara pribadi (IIP), informasi kesehatan yang dilindungi (PHI), dan informasi keamanan pribadi (PSI) adalah bentuk informasi yang dilindungi yang sering dicuri. Perusahaan dapat kehilangan keunggulan kompetitifnya jika informasi ini dicuri, termasuk rahasia dagang. Selain itu, pelanggan kehilangan kepercayaan pada kemampuan perusahaan untuk melindungi data mereka. Pemerintah juga menjadi korban peretasan.</p>
 
 
-### Modul 1: Kuis Bahaya
+<p align="justify"><b> Modul 1: Kuis Bahaya</b></br>
 Seorang penyerang mengirimkan malware sebagai lampiran email ke karyawan di sebuah perusahaan. Apa satu kemungkinan tujuan serangan itu?
+a. menolak akses eksternal ke server web yang terbuka untuk umum
+b. menyelidiki port terbuka di firewall di jaringan perbatasan
+c. mencari dan mendapatkan rahasia dagang
+d. meretas kata sandi administrator untuk server kritis
+</p>
