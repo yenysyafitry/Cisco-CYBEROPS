@@ -16,12 +16,8 @@ Instal mesin virtual untuk menciptakan lingkungan yang aman untuk menerapkan dan
 <li>Analisis data intrusi jaringan untuk mengidentifikasi host dan kerentanan yang disusupi.</li>
 <li>Menerapkan model respons insiden untuk mengelola insiden keamanan jaringan.</li></ol>
 
-<p align="justify">Ada sejumlah alat dan sumber daya yang tersedia untuk Anda yang akan membantu dalam perjalanan Anda saat Anda mengembangkan keterampilan CyberOps dan mempersiapkan peluang kerja. </br>
-
-<b>Lingkungan Lab</b>
-
-Dalam kursus ini, dua mesin virtual (VM) digunakan: CyberOps Workstation dan Security Onion. VM ini menyediakan semua aplikasi dan pemantauan keamanan terbaru serta kemampuan analisis intrusi jaringan yang diperlukan untuk kursus.
-
-Persyaratan memori RAM minimum untuk menjalankan mesin virtual CyberOps Workstation adalah 1 GB. Namun, untuk mesin virtual Security Onion, disarankan menggunakan RAM 4 GB. Rekomendasi memori RAM pada Security Onion VM memungkinkan layanan, seperti pemantauan keamanan jaringan (NSM), berfungsi dengan baik.
-
+<p align="justify">Ada sejumlah alat dan sumber daya yang tersedia untuk Anda yang akan membantu dalam perjalanan Anda saat Anda mengembangkan keterampilan CyberOps dan mempersiapkan peluang kerja. </br></br>
+<b>Lingkungan Lab</b></br></br>
+Dalam kursus ini, dua mesin virtual (VM) digunakan: CyberOps Workstation dan Security Onion. VM ini menyediakan semua aplikasi dan pemantauan keamanan terbaru serta kemampuan analisis intrusi jaringan yang diperlukan untuk kursus.</br></br>
+Persyaratan memori RAM minimum untuk menjalankan mesin virtual CyberOps Workstation adalah 1 GB. Namun, untuk mesin virtual Security Onion, disarankan menggunakan RAM 4 GB. Rekomendasi memori RAM pada Security Onion VM memungkinkan layanan, seperti pemantauan keamanan jaringan (NSM), berfungsi dengan baik.</br></br>
 Lab penginstalan tersedia dalam kursus ini dan memberikan langkah-langkah mendetail untuk menyiapkan VM dan lingkungan lab Anda dengan benar.</p>
