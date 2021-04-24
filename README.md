@@ -83,8 +83,7 @@ a. menolak akses eksternal ke server web yang terbuka untuk umum</br>
 b. menyelidiki port terbuka di firewall di jaringan perbatasan</br>
 c. mencari dan mendapatkan rahasia dagang</br>
 d. meretas kata sandi administrator untuk server kritis
-<details>
-<summary markdown="span">Answer :</summary>
+<details><summary markdown="span">Answer :</summary>
 c. mencari dan mendapatkan rahasia dagang
 </details>
 2. Apa itu cyberwarfare?</br>
