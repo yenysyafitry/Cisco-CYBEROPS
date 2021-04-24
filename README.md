@@ -51,11 +51,9 @@ Untuk penjelasan tentang bahaya tidak mengamankan perangkat IoT, telusuri TED ta
 <li>Nomor rekening bank</li>
 <li>ID yang dikeluarkan pemerintah</li>
 <li>Informasi alamat (jalan, email, nomor telepon)</li></ul>
-
 <p align="justify">Salah satu tujuan yang lebih menguntungkan dari penjahat dunia maya adalah mendapatkan daftar IIP yang kemudian dapat dijual di web gelap. Web gelap hanya dapat diakses dengan perangkat lunak khusus dan digunakan oleh penjahat dunia maya untuk melindungi aktivitas mereka. IIP curian dapat digunakan untuk membuat akun keuangan palsu, seperti kartu kredit dan pinjaman jangka pendek.</br></br>
 Bagian dari IIP adalah informasi kesehatan yang dilindungi (PHI). Komunitas medis membuat dan memelihara catatan medis elektronik (EMR) yang mengandung PHI. Di AS, penanganan PHI diatur oleh Health Insurance Portability and Accountability Act (HIPAA). Di Uni Eropa, Peraturan Perlindungan Data Umum (GDPR) melindungi berbagai informasi pribadi termasuk catatan kesehatan.</br></br>
 Informasi keamanan pribadi (PSI) adalah jenis lain dari IIP. Informasi ini termasuk nama pengguna, kata sandi, dan informasi terkait keamanan lainnya yang digunakan individu untuk mengakses informasi atau layanan di jaringan. Menurut laporan tahun 2019 oleh Verizon, cara paling umum kedua pelaku ancaman melanggar jaringan adalah dengan menggunakan PSI curian.</br></br>Sebagian besar peretasan pada perusahaan dan organisasi yang telah dilaporkan dalam berita melibatkan IIP atau PHI yang dicuri. Contoh terbaru adalah:</p>
-
 <ul align="justify"><li>
 Pada tahun 2019, sebuah situs web alat desain grafis online mengalami pembobolan data dimana IIP untuk kurang lebih 137 juta pengguna dilihat oleh peretas dengan detail pengguna untuk 4 juta akun yang muncul di internet.</li>
 <li>Pada tahun 2020, sebuah perusahaan media sosial besar Tiongkok diretas sehingga mengakibatkan pencurian IIP, termasuk nomor telepon, yang dicuri dari 172 juta pengguna. </li><li>Pencurian tidak termasuk kata sandi, jadi datanya tersedia dengan harga murah di internet.</li>
@@ -78,7 +76,6 @@ Pelaku ancaman dapat membajak sesi perbankan dan informasi pribadi lainnya denga
 Aktor ancaman termasuk, tetapi tidak terbatas pada, amatir, peretas, kelompok kejahatan terorganisir, disponsori negara, dan kelompok teroris. Amatir mungkin memiliki sedikit atau tidak memiliki keahlian sama sekali dan sering menggunakan informasi yang ditemukan di internet untuk meluncurkan serangan. Hacktivist adalah hacker yang memprotes berbagai ide politik dan sosial. Sebagian besar aktivitas peretasan dimotivasi oleh keuntungan finansial. Negara bangsa tertarik menggunakan dunia maya untuk spionase industri. Pencurian kekayaan intelektual dapat memberikan keuntungan yang signifikan bagi suatu negara dalam perdagangan internasional. Saat Internet of Things (IoT) berkembang, webcam, router, dan perangkat lain di rumah kita juga diserang.</br></br>
 <b>Dampak Ancaman</b></br>
 Diperkirakan bisnis akan kehilangan lebih dari $ 5 triliun setiap tahun pada tahun 2024 karena serangan siber. Informasi yang dapat diidentifikasi secara pribadi (IIP), informasi kesehatan yang dilindungi (PHI), dan informasi keamanan pribadi (PSI) adalah bentuk informasi yang dilindungi yang sering dicuri. Perusahaan dapat kehilangan keunggulan kompetitifnya jika informasi ini dicuri, termasuk rahasia dagang. Selain itu, pelanggan kehilangan kepercayaan pada kemampuan perusahaan untuk melindungi data mereka. Pemerintah juga menjadi korban peretasan.</p>
-
 
 <p align="justify"><b> Modul 1: Kuis Bahaya</b></br>
 Seorang penyerang mengirimkan malware sebagai lampiran email ke karyawan di sebuah perusahaan. Apa satu kemungkinan tujuan serangan itu?</br>
