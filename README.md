@@ -226,8 +226,8 @@ c. Threat Hunter
 b. SOAR</details></p>
 <p align="justify"> 
 
-<p align="justify"><b>Ringkasan Pejuang dalam Perang Melawan Kejahatan Maya</b></br></br>
-Pusat Operasi Keamanan Modern</br>
+<p align="center"><b>Ringkasan Pejuang dalam Perang Melawan Kejahatan Maya</b></br></p>
+<p align="justify"><b>Pusat Operasi Keamanan Modern</b></br>
 Elemen utama SOC termasuk orang, proses, dan teknologi. Peran pekerjaan berkembang pesat dan mencakup tingkatan berdasarkan keahlian dan pengalaman. Peran ini termasuk Analis Peringatan Tingkat 1, Responden Insiden Tingkat 2, pemburu Ancaman Tingkat 3, dan Manajer SOC. Analis Tingkat 1 akan memantau insiden, membuka tiket, dan melakukan mitigasi ancaman dasar.</br></br>
 Sistem SEIM digunakan untuk mengumpulkan dan memfilter data, mendeteksi dan mengklasifikasikan ancaman, serta menganalisis dan menyelidiki ancaman. SEIM dan SOAR sering dipasangkan bersama. SOAR mirip dengan SIEM. SOAR melangkah lebih jauh dengan mengintegrasikan intelijen ancaman dan mengotomatiskan investigasi insiden dan alur kerja respons berdasarkan buku pedoman yang dikembangkan oleh tim keamanan. Key Performance Indicators (KPI) dirancang untuk mengukur berbagai aspek kinerja SOC. Metrik umum termasuk Dwell Time, Meant Time to Detect (MTTD), Mean Time to Respond (MTTR), Mean Time to Contain (MTTC), dan Time to Control.</br></br>
 <b>Menjadi Pembela</b></br>
