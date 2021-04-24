@@ -107,9 +107,9 @@ d. worm</br>
 d. worm
 </details>
 </p><p align="justify">
-4. Apa risiko potensial saat menggunakan hotspot nirkabel gratis dan terbuka di lokasi umum?
-  a. koneksi internet bisa menjadi terlalu lambat ketika banyak pengguna mengakses hotshop nirkabel
-  b. terlalu banyak pengguna yang mencoba untuk terhubung keinternet dapat menyebabkan kemacetan lalu lintas jaringan
-  c. pembelian produk dari vendor mungkin diperlukan sebagai imbalan atas akses internet
-  d. lalu lintas jaringan mungkin dibajak dan informasi dicuri
+4. Apa risiko potensial saat menggunakan hotspot nirkabel gratis dan terbuka di lokasi umum?</br>
+  a. koneksi internet bisa menjadi terlalu lambat ketika banyak pengguna mengakses hotshop nirkabel</br>
+  b. terlalu banyak pengguna yang mencoba untuk terhubung keinternet dapat menyebabkan kemacetan lalu lintas jaringan</br>
+  c. pembelian produk dari vendor mungkin diperlukan sebagai imbalan atas akses internet</br>
+  d. lalu lintas jaringan mungkin dibajak dan informasi dicuri</br>
 </p>
