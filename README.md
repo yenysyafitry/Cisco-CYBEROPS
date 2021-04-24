@@ -82,7 +82,7 @@ Diperkirakan bisnis akan kehilangan lebih dari $ 5 triliun setiap tahun pada tah
 a. menolak akses eksternal ke server web yang terbuka untuk umum</br>
 b. menyelidiki port terbuka di firewall di jaringan perbatasan</br>
 c. mencari dan mendapatkan rahasia dagang</br>
-d. meretas kata sandi administrator untuk server kritis</br>
+d. meretas kata sandi administrator untuk server kritis
 <details>
 <summary markdown="span">Answer :</summary>
 c. mencari dan mendapatkan rahasia dagang
