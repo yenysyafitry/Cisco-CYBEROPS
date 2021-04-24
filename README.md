@@ -182,7 +182,7 @@ Cisco Smart Net Total Care Service untuk Penyelesaian Masalah yang Cepat</li>
 <li>Layanan Terkelola Cisco</li>
 <li>Operasi Taktis Cisco (TacOps)</li>
 <li>Program Keselamatan dan Keamanan Fisik Cisco</li></ul>
-</br> <p align="justify"><b>Kuis Identifikasi Terminologi SOC</b></p></br>
+</br> <p align="center"><b>Kuis Identifikasi Terminologi SOC</b></p></br>
 <p align="justify"> 
 1. Peran pekerjaan SOC mana yang mengelola semua sumber daya SOC dan berfungsi sebagai titik kontak untuk organisasi atau pelanggan yang lebih besar ?</br>
 a. SME/Threat Hunter</br>
