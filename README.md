@@ -117,3 +117,13 @@ d. worm
 d. lalu lintas jaringan mungkin dibajak dan informasi dicuri
 </details>
 </p>
+<p align="justify"> 5. Nama apa yang diberikan untuk seorang hacker amatir?</br>
+a. Topi Hitam</br>
+b. Script Kiddie</br>
+c. Topi Merah</br>
+d. Tim Biru
+   <details>
+<summary markdown="span">Answer :</summary>
+b. Script Kiddie
+</details>
+  </p>
