@@ -112,4 +112,8 @@ d. worm
   b. terlalu banyak pengguna yang mencoba untuk terhubung keinternet dapat menyebabkan kemacetan lalu lintas jaringan</br>
   c. pembelian produk dari vendor mungkin diperlukan sebagai imbalan atas akses internet</br>
   d. lalu lintas jaringan mungkin dibajak dan informasi dicuri</br>
+  <details>
+<summary markdown="span">Answer :</summary>
+d. lalu lintas jaringan mungkin dibajak dan informasi dicuri
+</details>
 </p>
