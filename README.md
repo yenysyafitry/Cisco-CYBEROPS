@@ -127,3 +127,26 @@ d. Tim Biru / Blue Team
 b. Script Kiddie
 </details>
   </p>
+<p align="justify"><b>Pusat Operasi Keamanan Modern / Security Operations Center (SOC)</b></br>
+Bertahan dari ancaman hari ini membutuhkan pendekatan yang formal, terstruktur, dan disiplin. Organisasi biasanya menggunakan layanan profesional di Security Operations Center (SOC). SOC menyediakan berbagai layanan, mulai dari pemantauan dan manajemen, hingga solusi ancaman komprehensif dan keamanan yang dihosting yang dapat disesuaikan untuk memenuhi kebutuhan pelanggan. SOC dapat sepenuhnya dibuat sendiri, dimiliki dan dioperasikan oleh bisnis, atau elemen SOC dapat dikontrakkan ke vendor keamanan, seperti milik Cisco</br></br>Seperti yang diilustrasikan pada gambar, elemen utama SOC, adalah orang, proses, dan teknologi.</p>
+<p align="center"><img src="https://github.com/yenysyafitry/Cisco-CYBEROPS/blob/main/gambar 2.jpg"> </p>
+<p align="justify">Peran pekerjaan di SOC berkembang pesat. Secara tradisional, SOC menetapkan peran pekerjaan berdasarkan tingkatan, sesuai dengan keahlian dan tanggung jawab yang diperlukan untuk masing-masing tingkatan. Pekerjaan tingkat pertama lebih merupakan tingkat pemula, sedangkan pekerjaan tingkat ketiga membutuhkan keahlian yang luas.</p><ul align="justify"><li>Analis Peringatan Tingkat 1 - Para profesional ini memantau peringatan yang masuk, memverifikasi bahwa insiden sebenarnya telah terjadi, dan meneruskan tiket ke Tingkat 2, jika perlu.</li>
+<li>Responden Insiden Tingkat 2 - Para profesional ini bertanggung jawab untuk penyelidikan mendalam atas insiden dan menyarankan perbaikan atau tindakan yang harus diambil.</li>
+<li>Pemburu Ancaman Tingkat 3 - Para profesional ini memiliki keterampilan tingkat ahli dalam jaringan, titik akhir, intelijen ancaman, dan rekayasa balik malware. Mereka ahli dalam melacak proses malware untuk menentukan dampaknya dan bagaimana cara menghapusnya. Mereka juga sangat terlibat dalam berburu potensi ancaman dan menerapkan alat deteksi ancaman. Pemburu ancaman mencari ancaman dunia maya yang ada di jaringan tetapi belum terdeteksi.</li>
+<li>Manajer SOC - Profesional ini mengelola semua sumber daya SOC dan berfungsi sebagai titik kontak untuk organisasi atau pelanggan yang lebih besar.</li></ul>
+<p align="justify">Kursus ini menawarkan persiapan untuk sertifikasi yang sesuai untuk posisi Tier 1 Alert Analyst, juga dikenal sebagai Cybersecurity Analyst atau CyberOps Associate.</p>
+<p align="center"><img src="https://github.com/yenysyafitry/Cisco-CYBEROPS/blob/main/gambar3.jpg"> </p>
+<p align="justify"><b>Proses di SOC</b></br>Hari Analis Keamanan Siber biasanya dimulai dengan memantau antrian peringatan keamanan. Sistem tiket sering digunakan untuk memberikan peringatan ke antrian untuk diselidiki oleh seorang analis. Karena perangkat lunak yang menghasilkan peringatan dapat memicu alarm palsu, salah satu tugas Analis Keamanan Siber adalah memverifikasi bahwa peringatan tersebut mewakili insiden keamanan yang sebenarnya. Ketika verifikasi ditetapkan, insiden tersebut dapat diteruskan ke penyelidik atau personel keamanan lainnya untuk ditindaklanjuti. Jika tidak, peringatan tersebut dapat dianggap sebagai alarm palsu.</br></br>
+Jika tiket tidak dapat diselesaikan, Analis Keamanan Siber akan meneruskan tiket tersebut ke Responden Insiden Tingkat 2 untuk penyelidikan dan perbaikan lebih dalam. Jika Insiden Responder tidak dapat menyelesaikan tiket, tiket akan diteruskan ke personel Tingkat 3 dengan pengetahuan mendalam dan keterampilan berburu ancaman.</p>
+<p align="center"><img src="https://github.com/yenysyafitry/Cisco-CYBEROPS/blob/main/gambar4.jpg"> </p>
+<p align="justify"><b>Teknologi di SOC: SIEM</b></br>
+Seperti yang ditunjukkan pada gambar, SOC membutuhkan sistem informasi keamanan dan manajemen acara (SIEM), atau yang setara. SIEM memahami semua data yang dihasilkan oleh firewall, peralatan jaringan, sistem deteksi intrusi, dan perangkat lain.</br></br>
+Sistem SIEM digunakan untuk mengumpulkan dan memfilter data, mendeteksi dan mengklasifikasikan ancaman, serta menganalisis dan menyelidiki ancaman. Sistem SIEM juga dapat dan mengelola sumber daya untuk menerapkan langkah-langkah pencegahan dan mengatasi ancaman di masa depan. Teknologi SOC mencakup satu atau beberapa hal berikut:</p>
+<ul align="justify"><li>Pengumpulan acara, korelasi, dan analisis</li>
+<li>Pemantauan keamanan</li>
+<li>Kontrol keamanan</li>
+<li>Manajemen log</li>
+<li>Penilaian kerentanan</li>
+<li>Pelacakan kerentanan</li>
+<li>Kecerdasan ancaman</li></ul>
+<p align="center"><b>Sistem Pemantauan SOC </b></br><img src="https://github.com/yenysyafitry/Cisco-CYBEROPS/blob/main/gambar5.jpg"> </p>
