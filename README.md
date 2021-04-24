@@ -65,8 +65,7 @@ Pada tahun 2019, sebuah situs web alat desain grafis online mengalami pembobolan
 Perusahaan semakin khawatir dengan spionase perusahaan di dunia maya. Hilangnya kekayaan intelektual bagi pesaing merupakan masalah serius. Kekhawatiran utama tambahan adalah hilangnya kepercayaan yang muncul ketika perusahaan tidak dapat melindungi data pribadi pelanggannya. Hilangnya keunggulan kompetitif mungkin berasal dari hilangnya kepercayaan ini daripada perusahaan atau negara lain yang mencuri rahasia dagang.</p>
 
 <p align="justify"><b> Politik dan Keamanan Nasional</b></br>
-Bukan hanya bisnis yang diretas. Pada Februari 2016, seorang peretas menerbitkan informasi pribadi 20.000 karyawan Biro Investigasi Federal (FBI) AS dan 9.000 karyawan Departemen Keamanan Dalam Negeri (DHS) AS. Peretas itu rupanya bermotivasi politik.
-
+Bukan hanya bisnis yang diretas. Pada Februari 2016, seorang peretas menerbitkan informasi pribadi 20.000 karyawan Biro Investigasi Federal (FBI) AS dan 9.000 karyawan Departemen Keamanan Dalam Negeri (DHS) AS. Peretas itu rupanya bermotivasi politik.</br>
 Worm Stuxnet secara khusus dirancang untuk menghalangi kemajuan Iran dalam memperkaya uranium yang dapat digunakan dalam senjata nuklir. Stuxnet adalah contoh utama serangan jaringan yang dimotivasi oleh masalah keamanan nasional. Cyberwarfare adalah kemungkinan yang serius. Prajurit peretas yang didukung negara dapat menyebabkan gangguan dan penghancuran layanan dan sumber daya penting dalam negara musuh. Internet telah menjadi penting sebagai media untuk kegiatan komersial dan keuangan. Terganggunya aktivitas ini dapat menghancurkan perekonomian suatu negara. Pengontrol, mirip dengan yang diserang oleh Stuxnet, juga digunakan untuk mengontrol aliran air di bendungan dan peralihan listrik di jaringan listrik. Serangan terhadap pengontrol semacam itu dapat menimbulkan konsekuensi yang mengerikan.</p>
 
 <p align="justify"><b>Apa yang Saya Pelajari dalam Modul ini?</b></br></br>
@@ -78,9 +77,15 @@ Aktor ancaman termasuk, tetapi tidak terbatas pada, amatir, peretas, kelompok ke
 Diperkirakan bisnis akan kehilangan lebih dari $ 5 triliun setiap tahun pada tahun 2024 karena serangan siber. Informasi yang dapat diidentifikasi secara pribadi (IIP), informasi kesehatan yang dilindungi (PHI), dan informasi keamanan pribadi (PSI) adalah bentuk informasi yang dilindungi yang sering dicuri. Perusahaan dapat kehilangan keunggulan kompetitifnya jika informasi ini dicuri, termasuk rahasia dagang. Selain itu, pelanggan kehilangan kepercayaan pada kemampuan perusahaan untuk melindungi data mereka. Pemerintah juga menjadi korban peretasan.</p>
 
 <p align="justify"><b> Modul 1: Kuis Bahaya</b></br>
-Seorang penyerang mengirimkan malware sebagai lampiran email ke karyawan di sebuah perusahaan. Apa satu kemungkinan tujuan serangan itu?</br>
+1. Seorang penyerang mengirimkan malware sebagai lampiran email ke karyawan di sebuah perusahaan. Apa satu kemungkinan tujuan serangan itu?</br>
 a. menolak akses eksternal ke server web yang terbuka untuk umum</br>
 b. menyelidiki port terbuka di firewall di jaringan perbatasan</br>
 c. mencari dan mendapatkan rahasia dagang</br>
 d. meretas kata sandi administrator untuk server kritis</br>
+</br>
+2. Apa itu cyberwarfare?</br>
+a. Ini adalah serangan yang dirancang untuk menganggu, merusak, atau mengeksploitasi kepentingan nasional.</br>
+b. Ini adalah serangan hanya terhadap sasaran militer</br>
+c. Ini adalah serangan terhadap perusahaan besar</br>
+d. Ini adalah serangan yang hanya melibatkan robot dan bot</br>
 </p>
