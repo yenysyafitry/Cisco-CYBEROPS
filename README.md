@@ -43,5 +43,37 @@ Seberapa amankah perangkat ini? Misalnya, siapa yang menulis firmware? Apakah pr
 </br></br>
 Pada Oktober 2016, serangan DDoS terhadap penyedia nama domain Dyn menghancurkan banyak situs populer. Serangan tersebut berasal dari sejumlah besar webcam, DVR, router, dan perangkat IoT lainnya yang telah disusupi oleh perangkat lunak berbahaya. Perangkat ini membentuk "botnet" yang dikendalikan oleh peretas. Botnet ini digunakan untuk membuat serangan DDoS yang sangat besar yang menonaktifkan layanan internet penting. Dyn telah memposting blog untuk menjelaskan serangan itu dan reaksi mereka terhadapnya. Telusuri "Ringkasan Analisis Dyn Serangan Jumat 21 Oktober" untuk mempelajari lebih lanjut tentang serangan yang memecahkan rekor ini.
 </br></br>
-Untuk penjelasan tentang bahaya tidak mengamankan perangkat IoT, telusuri TED talk Avi Rubin, “Semua Perangkat Anda Dapat Diretas.” Rubin adalah Profesor Ilmu Komputer di Universitas Johns Hopkins.</p>
+Untuk penjelasan tentang bahaya tidak mengamankan perangkat IoT, telusuri TED talk Avi Rubin, “Semua Perangkat Anda Dapat Diretas.” Rubin adalah Profesor Ilmu Komputer di Universitas Johns Hopkins.</br></br>
+<b>Informasi identitas pribadi (IIP)</b> adalah informasi apa pun yang dapat digunakan untuk mengidentifikasi seseorang secara positif. Contoh PII meliputi:</p><ul align="justify"><li>Nama</li>
+<li>Nomor KTP</li>
+<li>Tanggal lahir</li>
+<li>Nomor kartu kredit</li>
+<li>Nomor rekening bank</li>
+<li>ID yang dikeluarkan pemerintah</li>
+<li>Informasi alamat (jalan, email, nomor telepon)</li></ul>
 
+<p align="justify">Salah satu tujuan yang lebih menguntungkan dari penjahat dunia maya adalah mendapatkan daftar PII yang kemudian dapat dijual di web gelap. Web gelap hanya dapat diakses dengan perangkat lunak khusus dan digunakan oleh penjahat dunia maya untuk melindungi aktivitas mereka. PII curian dapat digunakan untuk membuat akun keuangan palsu, seperti kartu kredit dan pinjaman jangka pendek.</br></br>
+Bagian dari PII adalah informasi kesehatan yang dilindungi (PHI). Komunitas medis membuat dan memelihara catatan medis elektronik (EMR) yang mengandung PHI. Di AS, penanganan PHI diatur oleh Health Insurance Portability and Accountability Act (HIPAA). Di Uni Eropa, Peraturan Perlindungan Data Umum (GDPR) melindungi berbagai informasi pribadi termasuk catatan kesehatan.</br></br>
+Informasi keamanan pribadi (PSI) adalah jenis lain dari PII. Informasi ini termasuk nama pengguna, kata sandi, dan informasi terkait keamanan lainnya yang digunakan individu untuk mengakses informasi atau layanan di jaringan. Menurut laporan tahun 2019 oleh Verizon, cara paling umum kedua pelaku ancaman melanggar jaringan adalah dengan menggunakan PSI curian.</br></br>
+Sebagian besar peretasan pada perusahaan dan organisasi yang telah dilaporkan dalam berita melibatkan PII atau PHI yang dicuri. Contoh terbaru adalah:</p>
+<ul align="justify"><li>
+Pada tahun 2019, sebuah situs web alat desain grafis online mengalami pembobolan data dimana PII untuk kurang lebih 137 juta pengguna dilihat oleh peretas dengan detail pengguna untuk 4 juta akun yang muncul di internet.</li>
+<li>Pada tahun 2020, sebuah perusahaan media sosial besar Tiongkok diretas sehingga mengakibatkan pencurian PII, termasuk nomor telepon, yang dicuri dari 172 juta pengguna. </li><li>Pencurian tidak termasuk kata sandi, jadi datanya tersedia dengan harga murah di internet.</li>
+<li>Pada 2019, perusahaan pembuat game yang dimainkan di Facebook diretas dan PII 218 juta pengguna dicuri.</li><ul>
+  <P><img src="https://github.com/yenysyafitry/Cisco-CYBEROPS/blob/main/gambar1.jpg"> </P>
+
+### Keunggulan Kompetitif yang Hilang
+<p align="justify">Perusahaan semakin khawatir dengan spionase perusahaan di dunia maya. Hilangnya kekayaan intelektual bagi pesaing merupakan masalah serius. Kekhawatiran utama tambahan adalah hilangnya kepercayaan yang muncul ketika perusahaan tidak dapat melindungi data pribadi pelanggannya. Hilangnya keunggulan kompetitif mungkin berasal dari hilangnya kepercayaan ini daripada perusahaan atau negara lain yang mencuri rahasia dagang.</p>
+
+### Politik dan Keamanan Nasional
+<p align="justify">Bukan hanya bisnis yang diretas. Pada Februari 2016, seorang peretas menerbitkan informasi pribadi 20.000 karyawan Biro Investigasi Federal (FBI) AS dan 9.000 karyawan Departemen Keamanan Dalam Negeri (DHS) AS. Peretas itu rupanya bermotivasi politik.
+
+Worm Stuxnet secara khusus dirancang untuk menghalangi kemajuan Iran dalam memperkaya uranium yang dapat digunakan dalam senjata nuklir. Stuxnet adalah contoh utama serangan jaringan yang dimotivasi oleh masalah keamanan nasional. Cyberwarfare adalah kemungkinan yang serius. Prajurit peretas yang didukung negara dapat menyebabkan gangguan dan penghancuran layanan dan sumber daya penting dalam negara musuh. Internet telah menjadi penting sebagai media untuk kegiatan komersial dan keuangan. Terganggunya aktivitas ini dapat menghancurkan perekonomian suatu negara. Pengontrol, mirip dengan yang diserang oleh Stuxnet, juga digunakan untuk mengontrol aliran air di bendungan dan peralihan listrik di jaringan listrik. Serangan terhadap pengontrol semacam itu dapat menimbulkan konsekuensi yang mengerikan.</p>
+
+### Apa yang Saya Pelajari dalam Modul ini?
+<p align="justify"><b>Cerita Perang</b></br>
+Pelaku ancaman dapat membajak sesi perbankan dan informasi pribadi lainnya dengan menggunakan hotspot "kembaran jahat". Pelaku ancaman dapat menargetkan perusahaan, seperti pada contoh di mana membuka pdf di komputer perusahaan dapat menginstal ransomware. Seluruh negara bisa menjadi sasaran. Ini terjadi dalam serangan malware Stuxnet.</br></br>
+<b>Aktor Ancaman </b></br>
+Aktor ancaman termasuk, tetapi tidak terbatas pada, amatir, peretas, kelompok kejahatan terorganisir, disponsori negara, dan kelompok teroris. Amatir mungkin memiliki sedikit atau tidak memiliki keahlian sama sekali dan sering menggunakan informasi yang ditemukan di internet untuk meluncurkan serangan. Hacktivist adalah hacker yang memprotes berbagai ide politik dan sosial. Sebagian besar aktivitas peretasan dimotivasi oleh keuntungan finansial. Negara bangsa tertarik menggunakan dunia maya untuk spionase industri. Pencurian kekayaan intelektual dapat memberikan keuntungan yang signifikan bagi suatu negara dalam perdagangan internasional. Saat Internet of Things (IoT) berkembang, webcam, router, dan perangkat lain di rumah kita juga diserang.</br></br>
+<b>Dampak Ancaman</b></br>
+Diperkirakan bisnis akan kehilangan lebih dari $ 5 triliun setiap tahun pada tahun 2024 karena serangan siber. Informasi yang dapat diidentifikasi secara pribadi (PII), informasi kesehatan yang dilindungi (PHI), dan informasi keamanan pribadi (PSI) adalah bentuk informasi yang dilindungi yang sering dicuri. Perusahaan dapat kehilangan keunggulan kompetitifnya jika informasi ini dicuri, termasuk rahasia dagang. Selain itu, pelanggan kehilangan kepercayaan pada kemampuan perusahaan untuk melindungi data mereka. Pemerintah juga menjadi korban peretasan.
