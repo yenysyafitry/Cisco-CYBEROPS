@@ -150,3 +150,79 @@ Sistem SIEM digunakan untuk mengumpulkan dan memfilter data, mendeteksi dan meng
 <li>Pelacakan kerentanan</li>
 <li>Kecerdasan ancaman</li></ul>
 <p align="center"><b>Sistem Pemantauan SOC </b></br><img src="https://github.com/yenysyafitry/Cisco-CYBEROPS/blob/main/gambar5.jpg"> </p>
+<p align="justify"><b>Teknologi di SOC: SOAR</b> </br>SIEM dan orkestrasi keamanan, otomatisasi dan respons (SOAR) sering kali dipasangkan karena keduanya memiliki kemampuan yang saling melengkapi.</br></br>
+Tim operasi keamanan besar (SecOps) menggunakan kedua teknologi untuk mengoptimalkan SOC mereka. Diperkirakan 15% organisasi dengan tim keamanan lebih dari lima orang akan menggunakan SOAR pada akhir tahun 2020.</br></br>
+Platform SOAR mirip dengan SIEM karena menggabungkan, menghubungkan, dan menganalisis peringatan. Namun, teknologi SOAR melangkah lebih jauh dengan mengintegrasikan intelijen ancaman dan mengotomatiskan investigasi insiden dan alur kerja respons berdasarkan buku pedoman yang dikembangkan oleh tim keamanan</p>
+<p align="center"><img src="https://github.com/yenysyafitry/Cisco-CYBEROPS/blob/main/gambar6.jpg"> </p>
+<p align="justify">Platform keamanan SOAR:</p>
+<ul align="justify"><li>
+Kumpulkan data alarm dari setiap komponen sistem.</li>
+<li>Menyediakan alat yang memungkinkan kasus untuk diteliti, dinilai, dan diselidiki.</li>
+<li>Tekankan integrasi sebagai cara untuk mengotomatiskan alur kerja respons insiden yang kompleks yang memungkinkan respons yang lebih cepat dan strategi pertahanan adaptif.</li>
+<li>Sertakan pedoman yang telah ditentukan sebelumnya yang memungkinkan tanggapan otomatis terhadap ancaman tertentu. Playbook dapat dimulai secara otomatis berdasarkan aturan yang telah ditentukan sebelumnya atau dapat dipicu oleh personel keamanan.</li>
+<li>SOAR menekankan alat integrasi dan otomatisasi alur kerja SOC. Ini mengatur banyak proses manual seperti penyelidikan peringatan keamanan yang hanya membutuhkan campur tangan manusia bila diperlukan. Hal ini membebaskan personel keamanan untuk menangani masalah yang lebih mendesak dan investigasi kelas atas serta pemulihan ancaman. Adopsi masa depan platform SOAR yang canggih akan mengubah operasi SOC dan peran pekerjaan.</li></ul>
+<p align="justify">
+Sistem SIEM harus menghasilkan lebih banyak peringatan daripada kebanyakan tim SecOps dapat menyelidiki secara realistis untuk secara konservatif menangkap sebanyak mungkin eksploitasi potensial. SOAR akan memproses banyak dari peringatan ini secara otomatis dan akan memungkinkan personel keamanan untuk fokus pada eksploitasi yang lebih kompleks dan berpotensi merusak.</p>
+<p align="justify"><b>Metrik SOC</b></br>
+SOC sangat penting untuk keamanan organisasi. Apakah SOC bersifat internal untuk suatu organisasi, atau memberikan layanan kepada banyak organisasi, penting untuk memahami seberapa baik SOC berfungsi agar perbaikan dapat dilakukan pada orang-orang, proses, dan teknologi yang membentuk SOC.</br></br>
+Banyak metrik, atau indikator kinerja utama (KPI) dapat dirancang untuk mengukur berbagai aspek spesifik kinerja SOC. Namun, lima metrik biasanya digunakan sebagai metrik SOC. Namun perlu dicatat, bahwa metrik yang menggambarkan kinerja selimut seringkali tidak memberikan gambaran yang akurat tentang operasi SOC karena keragaman ancaman keamanan siber. Beberapa metrik umum yang disusun oleh manajer SOC adalah:</p>
+<ul align="justify"><li>
+Dwell Time - lamanya waktu pelaku ancaman memiliki akses ke jaringan sebelum mereka terdeteksi, dan akses mereka dihentikan.</li>
+<li>Mean Time to Detect (MTTD) - waktu rata-rata yang diperlukan personel SOC untuk mengidentifikasi insiden keamanan yang valid telah terjadi di jaringan.</li>
+<li>Mean Time to Respond (MTTR) - waktu rata-rata yang diperlukan untuk menghentikan dan memulihkan insiden keamanan.</li>
+<li>Mean Time to Contain (MTTC) - waktu yang diperlukan untuk menghentikan insiden yang menyebabkan kerusakan lebih lanjut pada sistem atau data.</li>
+<li>Waktu untuk Mengontrol - waktu yang diperlukan untuk menghentikan penyebaran malware di jaringan.</li></ul>
+<p align="justify"><b>Keamanan Perusahaan dan Terkelola</b></br>
+Untuk jaringan menengah dan besar, organisasi akan mendapatkan keuntungan dari penerapan SOC tingkat perusahaan. SOC dapat menjadi solusi internal yang lengkap. Namun, banyak organisasi yang lebih besar akan melakukan outsourcing setidaknya sebagian dari operasi SOC ke penyedia solusi keamanan.</br></br>
+Cisco memiliki tim ahli yang membantu memastikan penyelesaian insiden yang tepat waktu dan akurat. Cisco menawarkan berbagai respons insiden, kesiapan, dan kemampuan manajemen termasuk:</p>
+<ul align="justify"><li>
+Cisco Smart Net Total Care Service untuk Penyelesaian Masalah yang Cepat</li>
+<li>Tim Respons Insiden Keamanan Produk Cisco (PSIRT)</li>
+<li>Tim Respons Insiden Keamanan Komputer Cisco (CSIRT)</li>
+<li>Layanan Terkelola Cisco</li>
+<li>Operasi Taktis Cisco (TacOps)</li>
+<li>Program Keselamatan dan Keamanan Fisik Cisco</li></ul>
+</br> <b>Kuis Identifikasi Terminologi SOC</b></br>
+<p align="justify"> 
+1. Peran pekerjaan SOC mana yang mengelola semua sumber daya SOC dan berfungsi sebagai titik kontak untuk organisasi atau pelanggan yang lebih besar ?
+a. SME/Threat Hunter
+b. SOC Manager
+c. Cybersecurity Analyst
+d. Incident Responder
+<details>
+<summary markdown="span">Answer :</summary>
+b. SOC Manager
+</details></p><p align="justify"> 
+b. SOC Manager
+2. Peran pekerjaan SOC mana yang memperoses peringatan keamanan dan meneruskan tiket ke tingkat 2 jika perlu ?
+a. SME/Threat Hunter
+b. SOC Manager
+c. Cybersecurity Analyst
+d. Incident Responder
+<details>
+<summary markdown="span">Answer :</summary>
+c. Cybersecurity Analyst
+</details></p><p align="justify"> 
+3. Peran pekerjaan SOC mana yang bertanggung jawab untuk penyelidikan mendalam atas insiden ?
+a. SME/Threat Hunter
+b. SOC Manager
+c. Cybersecurity Analyst
+d. Incident Responder
+<details>
+<summary markdown="span">Answer :</summary>
+d. Incident Responder</details></p><p align="justify"> 
+4. Perangkat mana yang mengintegrasikan informasi keamanan dan manajemen acara ke dalam satu platform ?
+a. SIEM
+b. SOAR
+c. Threat Hunter
+<details>
+<summary markdown="span">Answer :</summary>
+a. SIEM</details></p><p align="justify"> 
+5. Perangkat mana yang mengintegrasikan alat orkestrasi dan sumber daya untuk merespons peristiwa keamanan secara otomatis ?
+a. SIEM
+b. SOAR
+c. Threat Hunter
+<details>
+<summary markdown="span">Answer :</summary>
+b. SOAR</details></p>
+<p align="justify"> 
