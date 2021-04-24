@@ -225,3 +225,53 @@ c. Threat Hunter
 <summary markdown="span">Answer :</summary>
 b. SOAR</details></p>
 <p align="justify"> 
+
+<p align="justify"><b>Ringkasan Pejuang dalam Perang Melawan Kejahatan Maya</b></br></br>
+Pusat Operasi Keamanan Modern</br>
+Elemen utama SOC termasuk orang, proses, dan teknologi. Peran pekerjaan berkembang pesat dan mencakup tingkatan berdasarkan keahlian dan pengalaman. Peran ini termasuk Analis Peringatan Tingkat 1, Responden Insiden Tingkat 2, pemburu Ancaman Tingkat 3, dan Manajer SOC. Analis Tingkat 1 akan memantau insiden, membuka tiket, dan melakukan mitigasi ancaman dasar.</br></br>
+Sistem SEIM digunakan untuk mengumpulkan dan memfilter data, mendeteksi dan mengklasifikasikan ancaman, serta menganalisis dan menyelidiki ancaman. SEIM dan SOAR sering dipasangkan bersama. SOAR mirip dengan SIEM. SOAR melangkah lebih jauh dengan mengintegrasikan intelijen ancaman dan mengotomatiskan investigasi insiden dan alur kerja respons berdasarkan buku pedoman yang dikembangkan oleh tim keamanan. Key Performance Indicators (KPI) dirancang untuk mengukur berbagai aspek kinerja SOC. Metrik umum termasuk Dwell Time, Meant Time to Detect (MTTD), Mean Time to Respond (MTTR), Mean Time to Contain (MTTC), dan Time to Control.</br></br>
+<b>Menjadi Pembela</b></br>
+Berbagai sertifikasi keamanan siber yang relevan dengan karier di SOC tersedia dari berbagai organisasi. Mereka termasuk Cisco Certified CyberOps Associate, CompTIA Cybersecurity Analyst Certification, (ISC) 2 Information Security Certifications, Global Information Assurance Certification (GIAC), dan lainnya. Situs pekerjaan termasuk Indeed.com, CareerBuilder.com, USAJobs.gov, Glassdoor, dan LinkedIn. Anda mungkin juga ingin mempertimbangkan magang dan agensi sementara untuk mendapatkan pengalaman dan memulai karir Anda. Selain itu, keterampilan pemrograman Linux dan Python akan menambah keinginan Anda di pasar kerja.</p>
+<p align="justify"> 
+1. Personel mana di SOC yang diberi tugas untuk memverifikasi apakah peringatan yang dipicu oleh perangkat lunak pemantauan merupakan insiden keamanan yang sebenarnya?</br>
+a. Personil Tingkat 3</br>
+b. Manager SOC </br>
+c. Personil Tingkat 2</br>
+d. Personil Tingkat 1
+<details>
+<summary markdown="span">Answer :</summary>d. Personil Tingkat 1</details></p><p align="justify">
+ 2. Setelah insiden keamanan diverifikasi dalam SOC, responden insiden meninjau insiden tersebut tetapi tidak dapat mengidentifikasi sumber insiden dan membentuk prosedur mitigasi yang efektif. Kepada siapa tiket insiden harus diteruskan?</br>
+a. Seorang analis operasi cyber untuk mendapatkan bantuan</br>
+b. Manajer SOC untuk meminta personel lain untuk ditugaskan</br>
+c. Analis waspada untuk analisis lebih lanjut</br>
+d. UKM untuk penyelidikan lebih lanjut
+<details>
+<summary markdown="span">Answer :</summary>d. UKM untuk penyelidikan lebih lanjut</details></p><p align="justify">
+3. Dua layanan apa yang disediakan oleh pusat operasi keamanan? (Pilih dua.)</br>
+a. menyediakan koneksi internet yang aman</br>
+b. mengelola solusi ancaman yang komprehensif</br>
+c. menanggapi data center istirahay fisik - in</br>
+d. memastikan pertukaran paket perutean yang aman</br>
+e. memantau ancaman keamanan jaringan
+  <details>
+    <summary markdown="span">Answer :</summary>b. mengelola solusi ancaman yang komprehensif</br>e. memantau ancaman keamanan jaringan</details></p><p align="justify">
+4. Metrik mana yang digunakan di SOC untuk mengevaluasi waktu rata-rata yang diperlukan untuk mengidentifikasi bahwa insiden keamanan yang valid telah terjadi di jaringan?</br>
+a. Dwell Time</br>
+b. MTTC</br>
+c. MTTD</br>
+d. MTTR
+<details>
+    <summary markdown="span">Answer :</summary>c. MTTD</details></p><p align="justify">
+5. Tiga teknologi apa yang harus dimasukkan dalam informasi keamanan dan sistem manajemen kejadian di SOC? (Pilih tiga.)</br>
+a. pencegahan intruksi</br>
+b. koneksi VPN</br>
+c. Alat Firewall</br>
+d. Pemantauan Keamanan</br>
+e. Intelijen Ancaman</br>
+f. Pelacakan Kerentanan
+  <details>
+    <summary markdown="span">Answer :</summary>d. Pemantauan Keamanan</br>
+e. Intelijen Ancaman</br>
+f. Pelacakan Kerentanan</details></p>
+
+<p align="justify">
