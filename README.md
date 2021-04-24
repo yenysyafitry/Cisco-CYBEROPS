@@ -118,10 +118,10 @@ d. lalu lintas jaringan mungkin dibajak dan informasi dicuri
 </details>
 </p>
 <p align="justify"> 5. Nama apa yang diberikan untuk seorang hacker amatir?</br>
-a. Topi Hitam</br>
+a. Topi Hitam / Black Hat</br>
 b. Script Kiddie</br>
-c. Topi Merah</br>
-d. Tim Biru
+c. Topi Merah / Red Hat</br>
+d. Tim Biru / Blue Team
    <details>
 <summary markdown="span">Answer :</summary>
 b. Script Kiddie
