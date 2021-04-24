@@ -59,7 +59,8 @@ Informasi keamanan pribadi (PSI) adalah jenis lain dari IIP. Informasi ini terma
 Pada tahun 2019, sebuah situs web alat desain grafis online mengalami pembobolan data dimana IIP untuk kurang lebih 137 juta pengguna dilihat oleh peretas dengan detail pengguna untuk 4 juta akun yang muncul di internet.</li>
 <li>Pada tahun 2020, sebuah perusahaan media sosial besar Tiongkok diretas sehingga mengakibatkan pencurian IIP, termasuk nomor telepon, yang dicuri dari 172 juta pengguna. </li><li>Pencurian tidak termasuk kata sandi, jadi datanya tersedia dengan harga murah di internet.</li>
 <li>Pada 2019, perusahaan pembuat game yang dimainkan di Facebook diretas dan PII 218 juta pengguna dicuri.</li><ul>
-  <p align="center"><img src="https://github.com/yenysyafitry/Cisco-CYBEROPS/blob/main/gambar1.jpg"> </p>
+  
+<p align="center"><img src="https://github.com/yenysyafitry/Cisco-CYBEROPS/blob/main/gambar1.jpg"> </p>
 
 <p align="justify"><b>Keunggulan Kompetitif yang Hilang</b></br>
 Perusahaan semakin khawatir dengan spionase perusahaan di dunia maya. Hilangnya kekayaan intelektual bagi pesaing merupakan masalah serius. Kekhawatiran utama tambahan adalah hilangnya kepercayaan yang muncul ketika perusahaan tidak dapat melindungi data pribadi pelanggannya. Hilangnya keunggulan kompetitif mungkin berasal dari hilangnya kepercayaan ini daripada perusahaan atau negara lain yang mencuri rahasia dagang.</p>
@@ -79,9 +80,9 @@ Diperkirakan bisnis akan kehilangan lebih dari $ 5 triliun setiap tahun pada tah
 
 
 <p align="justify"><b> Modul 1: Kuis Bahaya</b></br>
-Seorang penyerang mengirimkan malware sebagai lampiran email ke karyawan di sebuah perusahaan. Apa satu kemungkinan tujuan serangan itu?
-a. menolak akses eksternal ke server web yang terbuka untuk umum
-b. menyelidiki port terbuka di firewall di jaringan perbatasan
-c. mencari dan mendapatkan rahasia dagang
-d. meretas kata sandi administrator untuk server kritis
+Seorang penyerang mengirimkan malware sebagai lampiran email ke karyawan di sebuah perusahaan. Apa satu kemungkinan tujuan serangan itu?</br>
+a. menolak akses eksternal ke server web yang terbuka untuk umum</br>
+b. menyelidiki port terbuka di firewall di jaringan perbatasan</br>
+c. mencari dan mendapatkan rahasia dagang</br>
+d. meretas kata sandi administrator untuk server kritis</br>
 </p>
