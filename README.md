@@ -37,6 +37,12 @@ Hacktivist adalah hacker yang memprotes berbagai ide politik dan sosial. Hacktiv
 <b>Rahasia Dagang & Politik Global</b></br>Dalam beberapa tahun terakhir, kami telah mendengar banyak cerita tentang negara bangsa meretas negara lain, atau mencampuri politik internal. Negara bangsa juga tertarik menggunakan dunia maya untuk spionase industri. Pencurian kekayaan intelektual dapat memberikan keuntungan yang signifikan bagi suatu negara dalam perdagangan internasional.
 Membela dampak dari spionase siber dan perang siber yang disponsori negara akan terus menjadi prioritas bagi para profesional keamanan siber. </p>
 
+<p align="justify"><b>Seberapa Aman Internet of Things?</b></br>
+Internet of Things (IoT) ada di sekitar kita dan berkembang dengan cepat. Kami baru mulai menuai manfaat dari IoT. Cara baru untuk menggunakan hal-hal yang terhubung sedang dikembangkan setiap hari. IoT membantu individu menghubungkan berbagai hal untuk meningkatkan kualitas hidup mereka. Misalnya, banyak orang sekarang menggunakan perangkat yang dapat dikenakan yang terhubung untuk melacak aktivitas kebugaran mereka. Berapa banyak perangkat yang Anda miliki saat ini yang terhubung ke jaringan rumah atau internet?
+</br></br>
+Seberapa amankah perangkat ini? Misalnya, siapa yang menulis firmware? Apakah programmer memperhatikan kelemahan keamanan? Apakah termostat rumah Anda yang terhubung rentan terhadap serangan? Bagaimana dengan perekam video digital (DVR) Anda? Jika kerentanan keamanan ditemukan, dapatkah firmware di perangkat ditambal untuk menghilangkan kerentanan tersebut? Banyak perangkat di internet tidak diperbarui dengan firmware terbaru. Beberapa perangkat lama bahkan tidak dikembangkan untuk diperbarui dengan tambalan. Kedua situasi ini menciptakan peluang bagi pelaku ancaman dan risiko keamanan bagi pemilik perangkat tersebut.
+</br></br>
+Pada Oktober 2016, serangan DDoS terhadap penyedia nama domain Dyn menghancurkan banyak situs populer. Serangan tersebut berasal dari sejumlah besar webcam, DVR, router, dan perangkat IoT lainnya yang telah disusupi oleh perangkat lunak berbahaya. Perangkat ini membentuk "botnet" yang dikendalikan oleh peretas. Botnet ini digunakan untuk membuat serangan DDoS yang sangat besar yang menonaktifkan layanan internet penting. Dyn telah memposting blog untuk menjelaskan serangan itu dan reaksi mereka terhadapnya. Telusuri "Ringkasan Analisis Dyn Serangan Jumat 21 Oktober" untuk mempelajari lebih lanjut tentang serangan yang memecahkan rekor ini.
+</br></br>
+Untuk penjelasan tentang bahaya tidak mengamankan perangkat IoT, telusuri TED talk Avi Rubin, “Semua Perangkat Anda Dapat Diretas.” Rubin adalah Profesor Ilmu Komputer di Universitas Johns Hopkins.</p>
 
-
-</p>
