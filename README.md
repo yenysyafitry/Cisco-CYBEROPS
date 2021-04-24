@@ -55,10 +55,11 @@ Untuk penjelasan tentang bahaya tidak mengamankan perangkat IoT, telusuri TED ta
 <p align="justify">Salah satu tujuan yang lebih menguntungkan dari penjahat dunia maya adalah mendapatkan daftar IIP yang kemudian dapat dijual di web gelap. Web gelap hanya dapat diakses dengan perangkat lunak khusus dan digunakan oleh penjahat dunia maya untuk melindungi aktivitas mereka. IIP curian dapat digunakan untuk membuat akun keuangan palsu, seperti kartu kredit dan pinjaman jangka pendek.</br></br>
 Bagian dari IIP adalah informasi kesehatan yang dilindungi (PHI). Komunitas medis membuat dan memelihara catatan medis elektronik (EMR) yang mengandung PHI. Di AS, penanganan PHI diatur oleh Health Insurance Portability and Accountability Act (HIPAA). Di Uni Eropa, Peraturan Perlindungan Data Umum (GDPR) melindungi berbagai informasi pribadi termasuk catatan kesehatan.</br></br>
 Informasi keamanan pribadi (PSI) adalah jenis lain dari IIP. Informasi ini termasuk nama pengguna, kata sandi, dan informasi terkait keamanan lainnya yang digunakan individu untuk mengakses informasi atau layanan di jaringan. Menurut laporan tahun 2019 oleh Verizon, cara paling umum kedua pelaku ancaman melanggar jaringan adalah dengan menggunakan PSI curian.</br></br>Sebagian besar peretasan pada perusahaan dan organisasi yang telah dilaporkan dalam berita melibatkan IIP atau PHI yang dicuri. Contoh terbaru adalah:</p>
+
 <ul align="justify"><li>
 Pada tahun 2019, sebuah situs web alat desain grafis online mengalami pembobolan data dimana IIP untuk kurang lebih 137 juta pengguna dilihat oleh peretas dengan detail pengguna untuk 4 juta akun yang muncul di internet.</li>
 <li>Pada tahun 2020, sebuah perusahaan media sosial besar Tiongkok diretas sehingga mengakibatkan pencurian IIP, termasuk nomor telepon, yang dicuri dari 172 juta pengguna. </li><li>Pencurian tidak termasuk kata sandi, jadi datanya tersedia dengan harga murah di internet.</li>
-<li>Pada 2019, perusahaan pembuat game yang dimainkan di Facebook diretas dan PII 218 juta pengguna dicuri.</li><ul>
+<li>Pada 2019, perusahaan pembuat game yang dimainkan di Facebook diretas dan PII 218 juta pengguna dicuri.</li></ul>
   
 <p align="center"><img src="https://github.com/yenysyafitry/Cisco-CYBEROPS/blob/main/gambar1.jpg"> </p>
 
