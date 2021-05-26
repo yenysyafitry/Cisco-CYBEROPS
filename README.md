@@ -281,10 +281,20 @@ f. Pelacakan Kerentanan</details></p>
    the process of placing one message format inside another message format --> <b> Message Encording </b></br> 
    the process of unpacking one message format from another message format --> <b> Empty </b></br>
    the process of breaking up a long message into individual pieces before being sent over the network --> <b>Message Sizing  </b></br></br>
-2. A large corporation has modified its network to allow users to access network resources from their personal laptops and smart phones. Which networking        trend does this describe?
+2. A large corporation has modified its network to allow users to access network resources from their personal laptops and smart phones. Which networking        trend does this describe?</br>
    a. cloud computing</br>
    b. video conferencing</br>
    c. online collaboration</br>
    d. bring your own device</br>
 <details>
-    <summary markdown="span">Answer :</summary>d. bring your own device</details>
+    <summary markdown="span">Answer :</summary>d. bring your own device</details></br>
+3. What three application layer protocols are part of the TCP/IP protocol suite? (Choose three.)</br>
+a. ARP</br>
+b. DNS</br>
+c. NAT</br>
+d. DHCP</br>
+e. FTP</br>
+f. PPP</br>
+<details>
+    <summary markdown="span">Answer :</summary>b. DNS</br>d. DHCP</br> e. FTP</br></details></br>
+    
