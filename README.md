@@ -274,7 +274,7 @@ f. Pelacakan Kerentanan
 e. Intelijen Ancaman</br>
 f. Pelacakan Kerentanan</details></p>
 
-<p align="justify"> <b>Modules 5 - 10: Network Fundamentals Group ExamExternal tool</b></br>
+<p align="center"> <b>Modules 5 - 10: Network Fundamentals Group ExamExternal tool</b></br></p>
 1. Match each description to its corresponding term. (Not all options are used.)<br>
    the process of determining when to begin sending messages on a network -->  <b>Empty</b></br>
    the process of converting information from one format into another acceptable for transmission --> <b> Message Encapsulation </b></br>
@@ -282,9 +282,9 @@ f. Pelacakan Kerentanan</details></p>
    the process of unpacking one message format from another message format --> <b> Empty </b></br>
    the process of breaking up a long message into individual pieces before being sent over the network --> <b>Message Sizing  </b></br></br>
 2. A large corporation has modified its network to allow users to access network resources from their personal laptops and smart phones. Which networking        trend does this describe?
-   a. cloud computing
-   b. video conferencing
-   c. online collaboration
-   d. bring your own device
+   a. cloud computing</br>
+   b. video conferencing</br>
+   c. online collaboration</br>
+   d. bring your own device</br>
 <details>
-    <summary markdown="span">Answer :</summary>d. bring your own device</details></p>
+    <summary markdown="span">Answer :</summary>d. bring your own device</details>
