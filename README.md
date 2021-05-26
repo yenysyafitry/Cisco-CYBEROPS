@@ -312,7 +312,7 @@ c. the DHCPv6 Reply message</br>
 d. the ICMPv6 Router Solicitation</br>
 <details>
     <summary markdown="span">Answer :</summary>b. the ICMPv6 Router Advertisement</details>  
-6.<p align="justify"> <img src="https://github.com/yenysyafitry/Cisco-CYBEROPS/blob/main/i245693v1n2_Question 6.png"> </br>
+6.<p align="justify"><img src="https://github.com/yenysyafitry/Cisco-CYBEROPS/blob/main/i245693v1n2_Question 6.png"> </br>
 Refer to the exhibit. This PC is unable to communicate with the host at 172.16.0.100. What information can be gathered from the displayed output?</br>
 a. The target host is turned off.</br>
 b. This PC has the wrong subnet configured on its NIC.</br>
