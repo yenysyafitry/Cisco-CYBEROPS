@@ -239,14 +239,14 @@ b. Manager SOC </br>
 c. Personil Tingkat 2</br>
 d. Personil Tingkat 1
 <details>
-<summary markdown="span">Answer :</summary>d. Personil Tingkat 1</details></p><p align="justify">
+<summary markdown="span">Answer :</summary>d. Personil Tingkat 1</details>
  2. Setelah insiden keamanan diverifikasi dalam SOC, responden insiden meninjau insiden tersebut tetapi tidak dapat mengidentifikasi sumber insiden dan membentuk prosedur mitigasi yang efektif. Kepada siapa tiket insiden harus diteruskan?</br>
 a. Seorang analis operasi cyber untuk mendapatkan bantuan</br>
 b. Manajer SOC untuk meminta personel lain untuk ditugaskan</br>
 c. Analis waspada untuk analisis lebih lanjut</br>
 d. UKM untuk penyelidikan lebih lanjut
 <details>
-<summary markdown="span">Answer :</summary>d. UKM untuk penyelidikan lebih lanjut</details></p><p align="justify">
+<summary markdown="span">Answer :</summary>d. UKM untuk penyelidikan lebih lanjut</details>
 3. Dua layanan apa yang disediakan oleh pusat operasi keamanan? (Pilih dua.)</br>
 a. menyediakan koneksi internet yang aman</br>
 b. mengelola solusi ancaman yang komprehensif</br>
@@ -261,7 +261,7 @@ b. MTTC</br>
 c. MTTD</br>
 d. MTTR
 <details>
-    <summary markdown="span">Answer :</summary>c. MTTD</details></p><p align="justify">
+    <summary markdown="span">Answer :</summary>c. MTTD</details>
 5. Tiga teknologi apa yang harus dimasukkan dalam informasi keamanan dan sistem manajemen kejadian di SOC? (Pilih tiga.)</br>
 a. pencegahan intruksi</br>
 b. koneksi VPN</br>
@@ -270,9 +270,7 @@ d. Pemantauan Keamanan</br>
 e. Intelijen Ancaman</br>
 f. Pelacakan Kerentanan
   <details>
-    <summary markdown="span">Answer :</summary>d. Pemantauan Keamanan</br>
-e. Intelijen Ancaman</br>
-f. Pelacakan Kerentanan</details></p>
+    <summary markdown="span">Answer :</summary>d. Pemantauan Keamanan</br>e. Intelijen Ancaman</br>f. Pelacakan Kerentanan</details></p>
 
 <p align="center"> <b>Modules 5 - 10: Network Fundamentals Group ExamExternal tool</b></br></p>
 <p align="justify"> 
@@ -286,7 +284,7 @@ f. Pelacakan Kerentanan</details></p>
    a. cloud computing</br>
    b. video conferencing</br>
    c. online collaboration</br>
-   d. bring your own device</br>
+   d. bring your own device
 <details>
     <summary markdown="span">Answer :</summary>d. bring your own device</details>
 3. What three application layer protocols are part of the TCP/IP protocol suite? (Choose three.)</br>
@@ -295,21 +293,21 @@ b. DNS</br>
 c. NAT</br>
 d. DHCP</br>
 e. FTP</br>
-f. PPP</br>
+f. PPP
 <details>
     <summary markdown="span">Answer :</summary>b. DNS</br>d. DHCP</br> e. FTP</br></details>
 4. At which OSI layer is a source MAC address added to a PDU during the encapsulation process?</br>
 a. transport layer</br>
 b. presentation layer</br>
 c. application layer</br>
-d. data link layer</br>
+d. data link layer
 <details>
     <summary markdown="span">Answer :</summary>d. data link layer</details>    
 5. What message informs IPv6 enabled interfaces to use stateful DHCPv6 for obtaining an IPv6 address?</br>
 a. the DHCPv6 Advertise message</br>
 b. the ICMPv6 Router Advertisement</br>
 c. the DHCPv6 Reply message</br>
-d. the ICMPv6 Router Solicitation</br>
+d. the ICMPv6 Router Solicitation
 <details>
     <summary markdown="span">Answer :</summary>b. the ICMPv6 Router Advertisement</details>  
 6.<p align="justify"><img src="https://github.com/yenysyafitry/Cisco-CYBEROPS/blob/main/i245693v1n2_Question 6.png"> </br>
@@ -317,14 +315,14 @@ Refer to the exhibit. This PC is unable to communicate with the host at 172.16.0
 a. The target host is turned off.</br>
 b. This PC has the wrong subnet configured on its NIC.</br>
 c. 172.16.0.100 is only a single hop away.</br>
-d. The communication fails after the default gateway.</br>
+d. The communication fails after the default gateway.
 <details>
     <summary markdown="span">Answer :</summary>d. The communication fails after the default gateway.</details>  
 7. What mechanism is used by a router to prevent a received IPv4 packet from traveling endlessly on a network?</br>
 a. It checks the value of the TTL field and if it is 0, it discards the packet and sends a Destination Unreachable message to the source host.</br>
 b. It increments the value of the TTL field by 1 and if the result is 100, it discards the packet and sends a Parameter Problem message to the source host.</br>
 c. It decrements the value of the TTL field by 1 and if the result is 0, it discards the packet and sends a Time Exceeded message to the source host.</br>
-d. It checks the value of the TTL field and if it is 100, it discards the packet and sends a Destination Unreachable message to the source host.</br>
+d. It checks the value of the TTL field and if it is 100, it discards the packet and sends a Destination Unreachable message to the source host.
 <details>
     <summary markdown="span">Answer :</summary>c. It decrements the value of the TTL field by 1 and if the result is 0, it discards the packet and sends a Time Exceeded message to the source host.</details> 
 8. What is a function of the tracert command that differs from the ping command when they are used on a workstation?</br>
